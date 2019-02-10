@@ -1,2 +1,2 @@
 # House_Prices
-Regression techniques to predict house prices
+Gradient Boosting using Decision Trees to predict house prices
